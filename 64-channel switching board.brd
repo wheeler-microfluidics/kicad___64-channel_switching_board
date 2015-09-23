@@ -1,0 +1,3403 @@
+PCBNEW-BOARD Version 2 date 02/06/2015 3:05:07 PM
+
+# Created by Pcbnew(2013-07-07 BZR 4022)-stable
+
+$GENERAL
+encoding utf-8
+Units mm
+LayerCount 2
+EnabledLayers 1FFF8001
+Links 76
+NoConn 0
+Di 11.421534 12.255499 76.983243 77.406501
+Ndraw 7
+Ntrack 507
+Nzone 0
+BoardThickness 1.6002
+Nmodule 69
+Nnets 76
+$EndGENERAL
+
+$SHEETDESCR
+Sheet A4 11693 8268
+Title ""
+Date "2 jun 2015"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndSHEETDESCR
+
+$SETUP
+Layers 2
+Layer[0] Back signal
+Layer[15] Front signal
+TrackWidth 0.1778
+TrackClearence 0.1778
+ZoneClearence 0.762
+Zone_45_Only 0
+TrackMinWidth 0.1778
+DrawSegmWidth 0.381
+EdgeSegmWidth 0.381
+ViaSize 0.762
+ViaDrill 0.381
+ViaMinSize 0.762
+ViaMinDrill 0.381
+MicroViaSize 0.508
+MicroViaDrill 0.127
+MicroViasAllowed 0
+MicroViaMinSize 0.508
+MicroViaMinDrill 0.127
+TextPcbWidth 0.3048
+TextPcbSize 1.524 2.032
+EdgeModWidth 0.3048
+TextModSize 1.524 1.524
+TextModWidth 0.3048
+PadSize 1.524 1.524
+PadDrill 1.016
+Pad2MaskClearance 0.254
+SolderMaskMinWidth 0
+AuxiliaryAxisOrg 0 0
+VisibleElements 7FFFFFFF
+PcbPlotParams (pcbplotparams (layerselection 284983297) (usegerberextensions true) (excludeedgelayer true) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory gerber))
+$EndSETUP
+
+$EQUIPOT
+Na 0 ""
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 1 "N-000001"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 2 "N-0000010"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 3 "N-0000012"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 4 "N-0000013"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 5 "N-0000014"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 6 "N-0000015"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 7 "N-0000016"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 8 "N-0000017"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 9 "N-0000018"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 10 "N-0000019"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 11 "N-000002"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 12 "N-0000020"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 13 "N-0000021"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 14 "N-0000022"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 15 "N-0000023"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 16 "N-0000024"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 17 "N-0000025"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 18 "N-0000026"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 19 "N-0000027"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 20 "N-0000028"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 21 "N-0000029"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 22 "N-000003"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 23 "N-0000030"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 24 "N-0000031"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 25 "N-0000032"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 26 "N-0000033"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 27 "N-0000034"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 28 "N-0000035"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 29 "N-0000037"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 30 "N-0000038"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 31 "N-0000039"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 32 "N-0000040"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 33 "N-0000041"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 34 "N-0000043"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 35 "N-0000044"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 36 "N-0000045"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 37 "N-0000046"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 38 "N-0000048"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 39 "N-0000049"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 40 "N-000005"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 41 "N-0000050"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 42 "N-0000051"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 43 "N-0000052"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 44 "N-0000053"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 45 "N-0000054"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 46 "N-0000055"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 47 "N-0000056"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 48 "N-0000057"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 49 "N-0000058"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 50 "N-0000059"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 51 "N-000006"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 52 "N-0000060"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 53 "N-0000061"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 54 "N-0000062"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 55 "N-0000063"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 56 "N-0000064"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 57 "N-0000065"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 58 "N-0000066"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 59 "N-0000067"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 60 "N-0000068"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 61 "N-0000069"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 62 "N-000007"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 63 "N-0000070"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 64 "N-0000071"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 65 "N-0000072"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 66 "N-0000073"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 67 "N-0000074"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 68 "N-0000075"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 69 "N-0000076"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 70 "N-0000077"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 71 "N-0000078"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 72 "N-0000079"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 73 "N-000008"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 74 "N-0000080"
+St ~
+$EndEQUIPOT
+$EQUIPOT
+Na 75 "N-000009"
+St ~
+$EndEQUIPOT
+$NCLASS
+Name "Default"
+Desc "This is the default net class."
+Clearance 0.1778
+TrackWidth 0.1778
+ViaDia 0.762
+ViaDrill 0.381
+uViaDia 0.508
+uViaDrill 0.127
+AddNet ""
+AddNet "N-000001"
+AddNet "N-0000010"
+AddNet "N-0000012"
+AddNet "N-0000013"
+AddNet "N-0000014"
+AddNet "N-0000015"
+AddNet "N-0000016"
+AddNet "N-0000017"
+AddNet "N-0000018"
+AddNet "N-0000019"
+AddNet "N-000002"
+AddNet "N-0000020"
+AddNet "N-0000021"
+AddNet "N-0000022"
+AddNet "N-0000023"
+AddNet "N-0000024"
+AddNet "N-0000025"
+AddNet "N-0000026"
+AddNet "N-0000027"
+AddNet "N-0000028"
+AddNet "N-0000029"
+AddNet "N-000003"
+AddNet "N-0000030"
+AddNet "N-0000031"
+AddNet "N-0000032"
+AddNet "N-0000033"
+AddNet "N-0000034"
+AddNet "N-0000035"
+AddNet "N-0000037"
+AddNet "N-0000038"
+AddNet "N-0000039"
+AddNet "N-0000040"
+AddNet "N-0000041"
+AddNet "N-0000043"
+AddNet "N-0000044"
+AddNet "N-0000045"
+AddNet "N-0000046"
+AddNet "N-0000048"
+AddNet "N-0000049"
+AddNet "N-000005"
+AddNet "N-0000050"
+AddNet "N-0000051"
+AddNet "N-0000052"
+AddNet "N-0000053"
+AddNet "N-0000054"
+AddNet "N-0000055"
+AddNet "N-0000056"
+AddNet "N-0000057"
+AddNet "N-0000058"
+AddNet "N-0000059"
+AddNet "N-000006"
+AddNet "N-0000060"
+AddNet "N-0000061"
+AddNet "N-0000062"
+AddNet "N-0000063"
+AddNet "N-0000064"
+AddNet "N-0000065"
+AddNet "N-0000066"
+AddNet "N-0000067"
+AddNet "N-0000068"
+AddNet "N-0000069"
+AddNet "N-000007"
+AddNet "N-0000070"
+AddNet "N-0000071"
+AddNet "N-0000072"
+AddNet "N-0000073"
+AddNet "N-0000074"
+AddNet "N-0000075"
+AddNet "N-0000076"
+AddNet "N-0000077"
+AddNet "N-0000078"
+AddNet "N-0000079"
+AddNet "N-000008"
+AddNet "N-0000080"
+AddNet "N-000009"
+$EndNCLASS
+$MODULE he10-10d
+Po 47.371 22.86 2700 15 556DFC99 556DFC79 ~~
+Li he10-10d
+Cd Connecteur HE10 10 contacts droit
+Kw CONN HE10
+Sc 556DFC79
+AR /556DF4AB
+Op 0 0 0
+T0 -6.096 -5.842 1.778 1.778 2700 0.3048 N V 21 N "P65"
+T1 0.381 5.588 1.778 1.778 2700 0.3048 N I 21 N "CONN_10"
+DS -8.89 3.556 -8.89 -3.556 0.3048 21
+DS 8.89 3.556 8.89 -3.556 0.3048 21
+DS -2.54 4.318 -2.54 3.556 0.3048 21
+DS -2.54 3.556 -8.89 3.556 0.3048 21
+DS -8.89 -3.556 8.89 -3.556 0.3048 21
+DS 8.89 3.556 2.54 3.556 0.3048 21
+DS 2.54 3.556 2.54 4.318 0.3048 21
+DS -6.604 1.27 -7.874 0.508 0.3048 21
+DS -7.874 0.508 -7.874 2.032 0.3048 21
+DS -7.874 2.032 -6.604 1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 44 "N-0000053"
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 43 "N-0000052"
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 42 "N-0000051"
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 45 "N-0000054"
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 9 "N-0000018"
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 35 "N-0000044"
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 10 "N-0000019"
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 38 "N-0000048"
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "9" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 40 "N-000005"
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "10" C 1.524 1.524 0 0 2700
+Dr 0.9144 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$SHAPE3D
+Na "conn_HExx/he10_10.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE he10-10d
+$MODULE 1pin
+Po 22.733 72.136 0 15 4E385321 4E385115 ~~
+Li 1pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E385115
+AR 1pin
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N I 21 N "H3"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "H3"
+DC 0 0 0 -2.286 0.381 21
+$PAD
+Sh "1" C 4.064 4.064 0 0 0
+Dr 3.048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE 1pin
+$MODULE 1pin
+Po 22.733 17.526 0 15 4E38532D 4E3850EA ~~
+Li 1pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3850EA
+AR 1pin
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N I 21 N "H2"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "H2"
+DC 0 0 0 -2.286 0.381 21
+$PAD
+Sh "1" C 4.064 4.064 0 0 0
+Dr 3.048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE 1pin
+$MODULE pogo_pin
+Po 15.113 25.146 0 15 51DEF033 4E38479A ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38479A
+AR /4E38458D
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P1"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 71 "N-0000078"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 25.146 0 15 51DEF033 4E384798 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384798
+AR /4E384592
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P2"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 72 "N-0000079"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 25.146 0 15 51DEF033 4E384796 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384796
+AR /4E384595
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P3"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 17 "N-0000025"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 25.146 0 15 51DEF033 4FB15F24 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4FB15F24
+AR /4E384594
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P4"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 24 "N-0000031"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 27.686 1800 15 51DEF033 4E384792 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384792
+AR /4E38459B
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 1800 0.254 N V 21 N "P5"
+T1 0 2.794 1.016 1.016 1800 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 1800
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 29 "N-0000037"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 27.686 1800 15 51DEF033 4E384790 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384790
+AR /4E38459A
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 1800 0.254 N V 21 N "P6"
+T1 0 2.794 1.016 1.016 1800 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 1800
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 34 "N-0000043"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 27.686 1800 15 51DEF033 4E38478E ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38478E
+AR /4E384598
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 1800 0.254 N V 21 N "P7"
+T1 0 2.794 1.016 1.016 1800 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 1800
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 51 "N-000006"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 27.686 1800 15 51DEF033 4E38478C ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38478C
+AR /4E384599
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 1800 0.254 N V 21 N "P8"
+T1 0 2.794 1.016 1.016 1800 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 1800
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 4 "N-0000013"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 30.226 1800 15 51DEF033 4E38478A ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38478A
+AR /4E3845A3
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 1800 0.254 N V 21 N "P9"
+T1 0 2.794 1.016 1.016 1800 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 1800
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 12 "N-0000020"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 30.226 0 15 51DEF033 4E384788 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384788
+AR /4E3845A2
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P10"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 54 "N-0000062"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 30.226 0 15 51DEF033 4E384786 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384786
+AR /4E3845A0
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P11"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 70 "N-0000077"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 30.226 0 15 51DEF033 4E384784 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384784
+AR /4E3845A1
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P12"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 65 "N-0000072"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 32.766 0 15 51DEF033 4E384782 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384782
+AR /4E38459C
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P13"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 18 "N-0000026"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 32.766 0 15 51DEF033 4E384780 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384780
+AR /4E38459D
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P14"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 25 "N-0000032"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 32.766 0 15 51DEF033 4E38477E ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38477E
+AR /4E38459F
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P15"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 30 "N-0000038"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 32.766 0 15 51DEF033 4E38477C ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38477C
+AR /4E38459E
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P16"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 3 "N-0000012"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 35.306 0 15 51DEF033 4E38477A ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38477A
+AR /4E3845B3
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P17"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 62 "N-000007"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 35.306 0 15 51DEF033 4E384778 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384778
+AR /4E3845B2
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P18"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 5 "N-0000014"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 35.306 0 15 51DEF033 4E384776 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384776
+AR /4E3845B0
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P19"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 13 "N-0000021"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 35.306 0 15 51DEF033 4E384774 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384774
+AR /4E3845B1
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P20"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 48 "N-0000057"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 37.846 0 15 51DEF033 4E384772 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384772
+AR /4E3845AC
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P21"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 49 "N-0000058"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 37.846 0 15 51DEF033 4E384770 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384770
+AR /4E3845AD
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P22"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 46 "N-0000055"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 37.846 0 15 51DEF033 4E38476E ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38476E
+AR /4E3845AF
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P23"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 19 "N-0000027"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 37.846 0 15 51DEF033 4E38476C ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38476C
+AR /4E3845AE
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P24"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 26 "N-0000033"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 40.386 0 15 51DEF033 4E38476A ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E38476A
+AR /4E3845A4
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P25"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 31 "N-0000039"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 40.386 0 15 51DEF033 4E384768 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384768
+AR /4E3845A5
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P26"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 1 "N-000001"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 40.386 0 15 51DEF033 4E384766 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384766
+AR /4E3845A7
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P27"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 73 "N-000008"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 40.386 0 15 51DEF033 4E384764 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384764
+AR /4E3845A6
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P28"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 6 "N-0000015"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 42.926 0 15 51DEF033 4E384762 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384762
+AR /4E3845AB
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P29"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 14 "N-0000022"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 42.926 0 15 51DEF033 4E384760 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E384760
+AR /4E3845AA
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P30"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 50 "N-0000059"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 42.926 0 15 51DEF033 4E3847D6 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847D6
+AR /4E3845A8
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P31"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 53 "N-0000061"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 42.926 0 15 51DEF033 4E3847D4 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847D4
+AR /4E3845A9
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P32"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 52 "N-0000060"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 45.466 0 15 51DEF033 4E3847D2 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847D2
+AR /4E3845C7
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P33"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 20 "N-0000028"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 45.466 0 15 51DEF033 4E3847D0 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847D0
+AR /4E3845C6
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P34"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 27 "N-0000034"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 45.466 0 15 51DEF033 4E3847CE ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847CE
+AR /4E3845C4
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P35"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 32 "N-0000040"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 45.466 0 15 51DEF033 4E3847CC ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847CC
+AR /4E3845C5
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P36"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 11 "N-000002"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 48.006 0 15 51DEF033 4E3847CA ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847CA
+AR /4E3845C0
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P37"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 75 "N-000009"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 48.006 0 15 51DEF033 4E3847C8 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847C8
+AR /4E3845C1
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P38"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 7 "N-0000016"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 48.006 0 15 51DEF033 4E3847C6 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847C6
+AR /4E3845C3
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P39"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 15 "N-0000023"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 48.006 0 15 51DEF033 4E3847C4 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847C4
+AR /4E3845C2
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P40"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 47 "N-0000056"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 50.546 0 15 51DEF033 4E3847C2 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847C2
+AR /4E384615
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P41"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 74 "N-0000080"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 50.546 0 15 51DEF033 4E3847C0 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847C0
+AR /4E384614
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P42"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 56 "N-0000064"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 50.546 0 15 51DEF033 4E3847BE ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847BE
+AR /4E384612
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P43"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 58 "N-0000066"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 50.546 0 15 51DEF033 4E3847BC ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847BC
+AR /4E384613
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P44"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 57 "N-0000065"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 53.086 0 15 51DEF033 4E3847BA ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847BA
+AR /4E38460E
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P45"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 63 "N-0000070"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 53.086 0 15 51DEF033 4E3847B8 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847B8
+AR /4E38460F
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P46"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 61 "N-0000069"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 53.086 0 15 51DEF033 4E3847B6 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847B6
+AR /4E384611
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P47"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 59 "N-0000067"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 53.086 0 15 51DEF033 4E3847B4 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847B4
+AR /4E384610
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P48"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 60 "N-0000068"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 55.626 0 15 51DEF033 4E3847B2 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847B2
+AR /4E384606
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P49"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 68 "N-0000075"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 55.626 0 15 51DEF033 4E3847B0 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847B0
+AR /4E384607
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P50"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 67 "N-0000074"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 55.626 0 15 51DEF033 4E3847AE ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847AE
+AR /4E384609
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P51"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 55 "N-0000063"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 55.626 0 15 51DEF033 4E3847AC ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847AC
+AR /4E384608
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P52"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 66 "N-0000073"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 58.166 0 15 51DEF033 4E3847AA ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847AA
+AR /4E38460D
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P53"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 64 "N-0000071"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 58.166 0 15 51DEF033 4E3847A8 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847A8
+AR /4E38460C
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P54"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 21 "N-0000029"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 58.166 0 15 51DEF033 4E3847A6 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847A6
+AR /4E38460A
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P55"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 16 "N-0000024"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 58.166 0 15 51DEF033 4E3847A4 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847A4
+AR /4E38460B
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P56"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 33 "N-0000041"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 15.113 60.706 0 15 51DEF033 4E3847A2 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847A2
+AR /4E3845F6
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P57"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 22 "N-000003"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 60.706 0 15 51DEF033 4E3847A0 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3847A0
+AR /4E3845F7
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P58"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 2 "N-0000010"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 60.706 0 15 51DEF033 4E3863F0 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 4E3863F0
+AR /4E3845F9
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P59"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 8 "N-0000017"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 60.706 0 15 51DEF033 556DF34B ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 556DF34B
+AR /4E3845F8
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P60"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 69 "N-0000076"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE PQFP80
+Po 40.513 43.942 0 15 4289CCB1 5564E88C ~~
+Li PQFP80
+Sc 5564E88C
+AR /5564EA87
+Op 0 0 0
+At SMD
+T0 0 -2.54 1.524 1.524 0 0.2032 N V 21 N "U1"
+T1 0 2.54 1.016 1.016 0 0.2032 N V 21 N "HV507"
+DC -9.1948 6.3246 -9.1948 5.842 0.381 21
+DS -10.0076 7.0104 10.0076 7.0104 0.381 21
+DS 10.0076 7.0104 10.0076 -7.0104 0.381 21
+DS 10.0076 -7.0104 -10.0076 -7.0104 0.381 21
+DS -10.0076 -7.0104 -10.0076 7.0104 0.381 21
+$PAD
+Sh "1" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 74 "N-0000080"
+Po -9.1948 8.1026
+$EndPAD
+$PAD
+Sh "2" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 56 "N-0000064"
+Po -8.4074 8.1026
+$EndPAD
+$PAD
+Sh "3" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 58 "N-0000066"
+Po -7.5946 8.1026
+$EndPAD
+$PAD
+Sh "4" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 57 "N-0000065"
+Po -6.8072 8.1026
+$EndPAD
+$PAD
+Sh "5" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 63 "N-0000070"
+Po -5.9944 8.1026
+$EndPAD
+$PAD
+Sh "6" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 61 "N-0000069"
+Po -5.207 8.1026
+$EndPAD
+$PAD
+Sh "7" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 59 "N-0000067"
+Po -4.3942 8.1026
+$EndPAD
+$PAD
+Sh "8" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 60 "N-0000068"
+Po -3.6068 8.1026
+$EndPAD
+$PAD
+Sh "9" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 68 "N-0000075"
+Po -2.794 8.1026
+$EndPAD
+$PAD
+Sh "10" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 67 "N-0000074"
+Po -2.0066 8.1026
+$EndPAD
+$PAD
+Sh "11" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 55 "N-0000063"
+Po -1.2192 8.1026
+$EndPAD
+$PAD
+Sh "12" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 66 "N-0000073"
+Po -0.4064 8.1026
+$EndPAD
+$PAD
+Sh "13" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 64 "N-0000071"
+Po 0.4064 8.1026
+$EndPAD
+$PAD
+Sh "14" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 21 "N-0000029"
+Po 1.1938 8.1026
+$EndPAD
+$PAD
+Sh "15" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 16 "N-0000024"
+Po 2.0066 8.1026
+$EndPAD
+$PAD
+Sh "16" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 33 "N-0000041"
+Po 2.794 8.1026
+$EndPAD
+$PAD
+Sh "17" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 22 "N-000003"
+Po 3.6068 8.1026
+$EndPAD
+$PAD
+Sh "18" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-0000010"
+Po 4.3942 8.1026
+$EndPAD
+$PAD
+Sh "19" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 8 "N-0000017"
+Po 5.207 8.1026
+$EndPAD
+$PAD
+Sh "20" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 69 "N-0000076"
+Po 5.9944 8.1026
+$EndPAD
+$PAD
+Sh "21" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 41 "N-0000050"
+Po 6.8072 8.1026
+$EndPAD
+$PAD
+Sh "22" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 39 "N-0000049"
+Po 7.5946 8.1026
+$EndPAD
+$PAD
+Sh "23" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 28 "N-0000035"
+Po 8.4074 8.1026
+$EndPAD
+$PAD
+Sh "24" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 23 "N-0000030"
+Po 9.1948 8.1026
+$EndPAD
+$PAD
+Sh "41" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 71 "N-0000078"
+Po 9.1948 -8.1026
+$EndPAD
+$PAD
+Sh "42" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 72 "N-0000079"
+Po 8.4074 -8.1026
+$EndPAD
+$PAD
+Sh "43" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 17 "N-0000025"
+Po 7.5946 -8.1026
+$EndPAD
+$PAD
+Sh "44" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 24 "N-0000031"
+Po 6.8072 -8.1026
+$EndPAD
+$PAD
+Sh "45" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 29 "N-0000037"
+Po 5.9944 -8.1026
+$EndPAD
+$PAD
+Sh "46" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 34 "N-0000043"
+Po 5.207 -8.1026
+$EndPAD
+$PAD
+Sh "47" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 51 "N-000006"
+Po 4.3942 -8.1026
+$EndPAD
+$PAD
+Sh "48" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 4 "N-0000013"
+Po 3.6068 -8.1026
+$EndPAD
+$PAD
+Sh "49" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 12 "N-0000020"
+Po 2.794 -8.1026
+$EndPAD
+$PAD
+Sh "50" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 54 "N-0000062"
+Po 2.0066 -8.1026
+$EndPAD
+$PAD
+Sh "51" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 70 "N-0000077"
+Po 1.1938 -8.1026
+$EndPAD
+$PAD
+Sh "52" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 65 "N-0000072"
+Po 0.4064 -8.1026
+$EndPAD
+$PAD
+Sh "53" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 18 "N-0000026"
+Po -0.4064 -8.1026
+$EndPAD
+$PAD
+Sh "54" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 25 "N-0000032"
+Po -1.2192 -8.1026
+$EndPAD
+$PAD
+Sh "55" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 30 "N-0000038"
+Po -2.0066 -8.1026
+$EndPAD
+$PAD
+Sh "56" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-0000012"
+Po -2.794 -8.1026
+$EndPAD
+$PAD
+Sh "57" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 62 "N-000007"
+Po -3.6068 -8.1026
+$EndPAD
+$PAD
+Sh "58" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 5 "N-0000014"
+Po -4.3942 -8.1026
+$EndPAD
+$PAD
+Sh "59" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 13 "N-0000021"
+Po -5.207 -8.1026
+$EndPAD
+$PAD
+Sh "60" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 48 "N-0000057"
+Po -5.9944 -8.1026
+$EndPAD
+$PAD
+Sh "61" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 49 "N-0000058"
+Po -6.8072 -8.1026
+$EndPAD
+$PAD
+Sh "62" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 46 "N-0000055"
+Po -7.5946 -8.1026
+$EndPAD
+$PAD
+Sh "63" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 19 "N-0000027"
+Po -8.4074 -8.1026
+$EndPAD
+$PAD
+Sh "64" R 0.4064 2.032 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 26 "N-0000033"
+Po -9.1948 -8.1026
+$EndPAD
+$PAD
+Sh "65" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 31 "N-0000039"
+Po -11.0998 -5.9944
+$EndPAD
+$PAD
+Sh "66" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "N-000001"
+Po -11.0998 -5.207
+$EndPAD
+$PAD
+Sh "67" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 73 "N-000008"
+Po -11.0998 -4.3942
+$EndPAD
+$PAD
+Sh "68" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 6 "N-0000015"
+Po -11.0998 -3.6068
+$EndPAD
+$PAD
+Sh "69" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 14 "N-0000022"
+Po -11.0998 -2.794
+$EndPAD
+$PAD
+Sh "70" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 50 "N-0000059"
+Po -11.0998 -2.0066
+$EndPAD
+$PAD
+Sh "71" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 53 "N-0000061"
+Po -11.0998 -1.1938
+$EndPAD
+$PAD
+Sh "72" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 52 "N-0000060"
+Po -11.0998 -0.4064
+$EndPAD
+$PAD
+Sh "73" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 20 "N-0000028"
+Po -11.0998 0.4064
+$EndPAD
+$PAD
+Sh "74" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 27 "N-0000034"
+Po -11.0998 1.1938
+$EndPAD
+$PAD
+Sh "75" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 32 "N-0000040"
+Po -11.0998 2.0066
+$EndPAD
+$PAD
+Sh "76" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 11 "N-000002"
+Po -11.0998 2.794
+$EndPAD
+$PAD
+Sh "77" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 75 "N-000009"
+Po -11.0998 3.6068
+$EndPAD
+$PAD
+Sh "78" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 7 "N-0000016"
+Po -11.0998 4.3942
+$EndPAD
+$PAD
+Sh "79" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 15 "N-0000023"
+Po -11.0998 5.207
+$EndPAD
+$PAD
+Sh "80" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 47 "N-0000056"
+Po -11.0998 5.9944
+$EndPAD
+$PAD
+Sh "25" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 37 "N-0000046"
+Po 11.0998 5.9944
+$EndPAD
+$PAD
+Sh "26" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 35 "N-0000044"
+Po 11.0998 5.207
+$EndPAD
+$PAD
+Sh "27" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.0998 4.3942
+$EndPAD
+$PAD
+Sh "28" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.0998 3.6068
+$EndPAD
+$PAD
+Sh "29" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 9 "N-0000018"
+Po 11.0998 2.794
+$EndPAD
+$PAD
+Sh "30" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 45 "N-0000054"
+Po 11.0998 2.0066
+$EndPAD
+$PAD
+Sh "31" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 44 "N-0000053"
+Po 11.0998 1.1938
+$EndPAD
+$PAD
+Sh "32" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 42 "N-0000051"
+Po 11.0998 0.4064
+$EndPAD
+$PAD
+Sh "33" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 43 "N-0000052"
+Po 11.0998 -0.4064
+$EndPAD
+$PAD
+Sh "34" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 36 "N-0000045"
+Po 11.0998 -1.1938
+$EndPAD
+$PAD
+Sh "35" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.0998 -2.0066
+$EndPAD
+$PAD
+Sh "36" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.0998 -2.794
+$EndPAD
+$PAD
+Sh "37" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 40 "N-000005"
+Po 11.0998 -3.6068
+$EndPAD
+$PAD
+Sh "38" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 38 "N-0000048"
+Po 11.0998 -4.3942
+$EndPAD
+$PAD
+Sh "39" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 10 "N-0000019"
+Po 11.0998 -5.207
+$EndPAD
+$PAD
+Sh "40" R 2.032 0.4064 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 37 "N-0000046"
+Po 11.0998 -5.9944
+$EndPAD
+$EndMODULE PQFP80
+$MODULE pogo_pin
+Po 15.113 63.246 0 15 51DEF033 5564E891 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 5564E891
+AR /4E3845FD
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P61"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 41 "N-0000050"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 17.653 63.246 0 15 51DEF033 5564E896 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 5564E896
+AR /4E3845FC
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P62"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 39 "N-0000049"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 22.733 63.246 0 15 51DEF033 5564E89B ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 5564E89B
+AR /4E3845FB
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P64"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 23 "N-0000030"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE pogo_pin
+Po 20.193 63.246 0 15 51DEF033 5564E8A0 ~~
+Li pogo_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 5564E8A0
+AR /4E3845FA
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "P63"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+$PAD
+Sh "1" C 1.524 1.524 0 0 0
+Dr 0.55 0 0
+At STD N 00E0FFFF
+Ne 28 "N-0000035"
+Po 0 0
+$EndPAD
+$EndMODULE pogo_pin
+$MODULE PIN_ARRAY_2X1
+Po 51.6763 60.7187 900 15 556DFB35 556DF717 ~~
+Li PIN_ARRAY_2X1
+Cd Connecteurs 2 pins
+Kw CONN DEV
+Sc 556DF717
+AR /556DF541
+Op 0 0 0
+T0 0 -1.905 0.762 0.762 900 0.1524 N V 21 N "P66"
+T1 -0.1143 2.1717 0.762 0.762 900 0.1524 N I 21 N "CONN_2"
+DS -2.54 1.27 -2.54 -1.27 0.1524 21
+DS -2.54 -1.27 2.54 -1.27 0.1524 21
+DS 2.54 -1.27 2.54 1.27 0.1524 21
+DS 2.54 1.27 -2.54 1.27 0.1524 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 37 "N-0000046"
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 36 "N-0000045"
+Po 1.27 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_2x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE PIN_ARRAY_2X1
+$TEXTPCB
+Te "HV"
+Po 51.816 65.151 0.8 1 0.2 900
+De 21 1 0 Normal L C
+$EndTEXTPCB
+$TEXTPCB
+Te "HVGND"
+Po 51.816 57.912 0.8 1 0.2 900
+De 21 1 0 Normal L C
+$EndTEXTPCB
+$TEXTPCB
+Te "64-channel switching board v0.1"
+Po 56.388 75.946 0.8 1 0.2 900
+De 21 1 0 Normal L C
+$EndTEXTPCB
+$DRAWSEGMENT
+Po 0 12.573 77.216 58.166 77.216 0.381
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$DRAWSEGMENT
+Po 0 12.573 12.446 12.573 77.216 0.381
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$DRAWSEGMENT
+Po 0 58.166 12.446 58.166 77.216 0.381
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$DRAWSEGMENT
+Po 0 12.573 12.446 58.166 12.446 0.381
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$TRACK
+Po 0 17.653 40.386 17.653 40.132 0.1778 -1
+De 15 0 1 0 0
+Po 0 24.13 38.735 29.4132 38.735 0.1778 -1
+De 15 0 1 5564EA9D 0
+Po 0 23.749 39.116 24.13 38.735 0.1778 -1
+De 15 0 1 5564EA9C 0
+Po 0 18.669 39.116 23.749 39.116 0.1778 -1
+De 15 0 1 5564EA9A 0
+Po 0 17.653 40.132 18.669 39.116 0.1778 -1
+De 15 0 1 5564EA99 0
+Po 0 17.653 40.386 17.7165 40.386 0.1778 -1
+De 0 0 1 0 30
+Po 0 36.6776 61.3537 44.9072 53.1241 0.1778 -1
+De 15 0 2 0 0
+Po 0 23.61692 59.5757 25.39492 61.3537 0.1778 -1
+De 15 0 2 556DEF9A 0
+Po 0 25.39492 61.3537 36.6776 61.3537 0.1778 -1
+De 15 0 2 556DEFA5 0
+Po 0 17.653 60.706 18.3896 60.706 0.1778 -1
+De 15 0 2 0 0
+Po 0 44.9072 53.1241 44.9072 52.0446 0.1778 -1
+De 15 0 2 556DEF38 0
+Po 0 18.3896 60.706 19.5199 59.5757 0.1778 -1
+De 15 0 2 556DEF32 0
+Po 0 19.5199 59.5757 23.61692 59.5757 0.1778 -1
+De 15 0 2 0 0
+Po 0 22.733 32.766 29.083002 32.766 0.1778 -1
+De 15 0 3 0 0
+Po 0 37.719 34.4424 37.719 35.8394 0.1778 -1
+De 15 0 3 5564EB3C 0
+Po 0 36.3982 33.1216 37.719 34.4424 0.1778 -1
+De 15 0 3 5564EB3A 0
+Po 0 29.438602 33.1216 36.3982 33.1216 0.1778 -1
+De 15 0 3 5564EB39 0
+Po 0 29.083002 32.766 29.438602 33.1216 0.1778 -1
+De 15 0 3 5564EB38 0
+Po 0 22.733 32.766 23.1775 32.766 0.1778 -1
+De 0 0 3 0 30
+Po 0 22.733 27.686 36.957 27.686 0.1778 -1
+De 15 0 4 0 0
+Po 0 44.1198 34.8488 44.1198 35.8394 0.1778 -1
+De 15 0 4 5564EB6F 0
+Po 0 36.957 27.686 44.1198 34.8488 0.1778 -1
+De 15 0 4 5564EB6D 0
+Po 0 17.653 35.306 17.78 35.306 0.1778 -1
+De 15 0 5 0 0
+Po 0 36.1188 34.5948 36.1188 35.8394 0.1778 -1
+De 15 0 5 5564EAF4 0
+Po 0 35.052 33.528 36.1188 34.5948 0.1778 -1
+De 15 0 5 5564EAF2 0
+Po 0 29.337 33.528 35.052 33.528 0.1778 -1
+De 15 0 5 5564EAF1 0
+Po 0 28.829 34.036 29.337 33.528 0.1778 -1
+De 15 0 5 5564EAEF 0
+Po 0 19.05 34.036 28.829 34.036 0.1778 -1
+De 15 0 5 5564EAED 0
+Po 0 17.78 35.306 19.05 34.036 0.1778 -1
+De 15 0 5 5564EAEC 0
+Po 0 29.4132 40.3352 22.7838 40.3352 0.1778 -1
+De 15 0 6 0 0
+Po 0 22.7838 40.3352 22.733 40.386 0.1778 -1
+De 15 0 6 5564EA8B 0
+Po 0 17.653 48.006 17.8816 48.006 0.1778 -1
+De 15 0 7 0 0
+Po 0 27.39898 48.3362 29.4132 48.3362 0.1778 -1
+De 15 0 7 556DEEBF 0
+Po 0 25.84958 46.7868 27.39898 48.3362 0.1778 -1
+De 15 0 7 556DEEBD 0
+Po 0 19.1008 46.7868 25.84958 46.7868 0.1778 -1
+De 15 0 7 556DEEBB 0
+Po 0 17.8816 48.006 19.1008 46.7868 0.1778 -1
+De 15 0 7 556DEEBA 0
+Po 0 45.72 52.0446 45.72 50.33772 0.1778 -1
+De 15 0 8 0 0
+Po 0 21.2725 61.7855 20.193 60.706 0.1778 -1
+De 0 0 8 556DF18E 0
+Po 0 34.27222 61.7855 21.2725 61.7855 0.1778 -1
+De 0 0 8 556DF186 0
+Po 0 45.7454 50.31232 34.27222 61.7855 0.1778 -1
+De 0 0 8 556DF185 0
+Po 3 45.7454 50.31232 45.7454 50.31232 0.762 -1
+De 15 1 8 0 0
+Po 0 45.72 50.33772 45.7454 50.31232 0.1778 -1
+De 15 0 8 556DF17F 0
+Po 0 51.6128 46.736 53.29428 46.736 0.1778 -1
+De 15 0 9 0 0
+Po 0 47.4218 24.1808 46.101 22.86 0.1778 -1
+De 0 0 9 556DF7D1 0
+Po 0 49.3141 24.1808 47.4218 24.1808 0.1778 -1
+De 0 0 9 556DF7CF 0
+Po 0 55.93334 30.80004 49.3141 24.1808 0.1778 -1
+De 0 0 9 556DF7CC 0
+Po 0 55.93334 44.15282 55.93334 30.80004 0.1778 -1
+De 0 0 9 556DF7C6 0
+Po 0 53.32222 46.76394 55.93334 44.15282 0.1778 -1
+De 0 0 9 556DF7C5 0
+Po 3 53.32222 46.76394 53.32222 46.76394 0.762 -1
+De 15 1 9 0 0
+Po 0 53.29428 46.736 53.32222 46.76394 0.1778 -1
+De 15 0 9 556DF7C2 0
+Po 0 51.6128 38.735 50.01514 38.735 0.1778 -1
+De 15 0 10 0 0
+Po 0 44.10964 27.39136 46.101 25.4 0.1778 -1
+De 0 0 10 556DF75B 0
+Po 0 44.10964 30.07868 44.10964 27.39136 0.1778 -1
+De 0 0 10 556DF759 0
+Po 0 50.65268 36.62172 44.10964 30.07868 0.1778 -1
+De 0 0 10 556DF754 0
+Po 0 50.65268 38.09746 50.65268 36.62172 0.1778 -1
+De 0 0 10 556DF753 0
+Po 0 50.0126 38.73754 50.65268 38.09746 0.1778 -1
+De 0 0 10 556DF752 0
+Po 3 50.0126 38.73754 50.0126 38.73754 0.762 -1
+De 15 1 10 0 0
+Po 0 50.01514 38.735 50.0126 38.73754 0.1778 -1
+De 15 0 10 556DF74E 0
+Po 0 22.733 45.466 25.654 45.466 0.1778 -1
+De 15 0 11 0 0
+Po 0 26.924 46.736 29.4132 46.736 0.1778 -1
+De 15 0 11 556DEE84 0
+Po 0 25.654 45.466 26.924 46.736 0.1778 -1
+De 15 0 11 556DEE7C 0
+Po 0 15.113 30.226 15.113 30.1244 0.1778 -1
+De 0 0 12 0 0
+Po 0 43.307 37.6428 43.307 35.8394 0.1778 -1
+De 15 0 12 5564EBF0 0
+Po 3 43.307 37.6428 43.307 37.6428 0.762 -1
+De 15 1 12 0 0
+Po 0 34.467798 28.803598 43.307 37.6428 0.1778 -1
+De 0 0 12 5564EBE6 0
+Po 0 16.433802 28.803598 34.467798 28.803598 0.1778 -1
+De 0 0 12 5564EBE2 0
+Po 0 15.113 30.1244 16.433802 28.803598 0.1778 -1
+De 0 0 12 5564EBE1 0
+Po 0 15.113 30.226 15.113 30.099 0.1778 -1
+De 15 0 12 0 30
+Po 0 20.193 35.306 20.32 35.306 0.1778 -1
+De 0 0 13 0 0
+Po 0 35.306 37.465 35.306 35.8394 0.1778 -1
+De 15 0 13 5564EB00 0
+Po 3 35.306 37.465 35.306 37.465 0.762 -1
+De 15 1 13 0 0
+Po 0 32.0548 37.465 35.306 37.465 0.1778 -1
+De 0 0 13 5564EAFD 0
+Po 0 28.829 34.2392 32.0548 37.465 0.1778 -1
+De 0 0 13 5564EAFB 0
+Po 0 21.3868 34.2392 28.829 34.2392 0.1778 -1
+De 0 0 13 5564EAF9 0
+Po 0 20.32 35.306 21.3868 34.2392 0.1778 -1
+De 0 0 13 5564EAF8 0
+Po 0 20.193 35.306 20.2565 35.306 0.1778 -1
+De 15 0 13 0 30
+Po 0 15.113 42.926 15.22476 42.926 0.1778 -1
+De 0 0 14 0 0
+Po 0 31.09976 41.148 29.4132 41.148 0.1778 -1
+De 15 0 14 556DE9F1 0
+Po 0 31.1023 41.15054 31.09976 41.148 0.1778 -1
+De 15 0 14 556DE9F0 0
+Po 3 31.1023 41.15054 31.1023 41.15054 0.762 -1
+De 15 1 14 0 0
+Po 0 30.741622 41.511218 31.1023 41.15054 0.1778 -1
+De 0 0 14 556DE9E7 0
+Po 0 16.639542 41.511218 30.741622 41.511218 0.1778 -1
+De 0 0 14 556DE9E1 0
+Po 0 15.22476 42.926 16.639542 41.511218 0.1778 -1
+De 0 0 14 556DE9E0 0
+Po 0 20.193 48.006 20.91944 48.006 0.1778 -1
+De 0 0 15 0 0
+Po 0 31.2293 49.149 29.4132 49.149 0.1778 -1
+De 15 0 15 556DEEE0 0
+Po 0 31.23692 49.15662 31.2293 49.149 0.1778 -1
+De 15 0 15 556DEEDF 0
+Po 3 31.23692 49.15662 31.23692 49.15662 0.762 -1
+De 15 1 15 0 0
+Po 0 29.04998 46.96968 31.23692 49.15662 0.1778 -1
+De 0 0 15 556DEED6 0
+Po 0 21.95576 46.96968 29.04998 46.96968 0.1778 -1
+De 0 0 15 556DEED4 0
+Po 0 20.91944 48.006 21.95576 46.96968 0.1778 -1
+De 0 0 15 556DEED1 0
+Po 0 20.193 58.166 20.3073 58.166 0.1778 -1
+De 0 0 16 0 0
+Po 0 42.5196 50.43424 42.5196 52.0446 0.1778 -1
+De 15 0 16 556DF1BA 0
+Po 0 42.52468 50.42916 42.5196 50.43424 0.1778 -1
+De 15 0 16 556DF1B9 0
+Po 3 42.52468 50.42916 42.52468 50.42916 0.762 -1
+De 15 1 16 0 0
+Po 0 33.69818 59.25566 42.52468 50.42916 0.1778 -1
+De 0 0 16 556DF1AD 0
+Po 0 21.39696 59.25566 33.69818 59.25566 0.1778 -1
+De 0 0 16 556DF1A8 0
+Po 0 20.3073 58.166 21.39696 59.25566 0.1778 -1
+De 0 0 16 556DF1A5 0
+Po 0 20.193 25.146 20.9042 25.146 0.1778 -1
+De 0 0 17 0 0
+Po 0 48.1076 37.6174 48.1076 35.8394 0.1778 -1
+De 15 0 17 5564EC38 0
+Po 0 48.0822 37.6428 48.1076 37.6174 0.1778 -1
+De 15 0 17 5564EC37 0
+Po 3 48.0822 37.6428 48.0822 37.6428 0.762 -1
+De 15 1 17 0 0
+Po 0 34.3662 23.9268 48.0822 37.6428 0.1778 -1
+De 0 0 17 5564EC30 0
+Po 0 22.1234 23.9268 34.3662 23.9268 0.1778 -1
+De 0 0 17 5564EC2E 0
+Po 0 20.9042 25.146 22.1234 23.9268 0.1778 -1
+De 0 0 17 5564EC1B 0
+Po 0 15.113 32.766 15.113 32.6136 0.1778 -1
+De 0 0 18 0 0
+Po 0 40.1066 37.6428 40.1066 35.8394 0.1778 -1
+De 15 0 18 5564EB5B 0
+Po 3 40.1066 37.6428 40.1066 37.6428 0.762 -1
+De 15 1 18 0 0
+Po 0 33.807398 31.343598 40.1066 37.6428 0.1778 -1
+De 0 0 18 5564EB58 0
+Po 0 16.383002 31.343598 33.807398 31.343598 0.1778 -1
+De 0 0 18 5564EB56 0
+Po 0 15.113 32.6136 16.383002 31.343598 0.1778 -1
+De 0 0 18 5564EB55 0
+Po 0 15.113 32.766 15.113 32.512 0.1778 -1
+De 15 0 18 0 30
+Po 0 15.113 32.766 15.3035 32.766 0.1778 -1
+De 15 0 18 0 30
+Po 0 20.193 37.846 20.193 37.719 0.1778 -1
+De 0 0 19 0 0
+Po 0 32.1056 38.9636 32.1056 35.8394 0.1778 -1
+De 15 0 19 5564EAD4 0
+Po 0 32.131 38.989 32.1056 38.9636 0.1778 -1
+De 15 0 19 5564EAD3 0
+Po 3 32.131 38.989 32.131 38.989 0.762 -1
+De 15 1 19 0 0
+Po 0 29.972 38.989 32.131 38.989 0.1778 -1
+De 0 0 19 5564EAD0 0
+Po 0 27.686 36.703 29.972 38.989 0.1778 -1
+De 0 0 19 5564EACE 0
+Po 0 21.209 36.703 27.686 36.703 0.1778 -1
+De 0 0 19 5564EACC 0
+Po 0 20.193 37.719 21.209 36.703 0.1778 -1
+De 0 0 19 5564EACA 0
+Po 0 20.193 37.846 20.193 37.7825 0.1778 -1
+De 15 0 19 0 30
+Po 0 20.193 37.846 20.193 37.82568 0.1778 -1
+De 15 0 19 0 30
+Po 0 15.113 45.466 15.113 45.1231 0.1778 -1
+De 0 0 20 0 0
+Po 0 31.26486 44.3484 29.4132 44.3484 0.1778 -1
+De 15 0 20 556DEEA9 0
+Po 0 31.26994 44.34332 31.26486 44.3484 0.1778 -1
+De 15 0 20 556DEEA8 0
+Po 3 31.26994 44.34332 31.26994 44.34332 0.762 -1
+De 15 1 20 0 0
+Po 0 30.944818 44.018198 31.26994 44.34332 0.1778 -1
+De 0 0 20 556DEEA2 0
+Po 0 16.217902 44.018198 30.944818 44.018198 0.1778 -1
+De 0 0 20 556DEE9F 0
+Po 0 15.113 45.1231 16.217902 44.018198 0.1778 -1
+De 0 0 20 556DEE9E 0
+Po 0 15.113 45.466 15.113 45.4025 0.1778 -1
+De 15 0 20 0 30
+Po 0 17.653 58.166 17.653 57.9628 0.1778 -1
+De 15 0 21 0 0
+Po 0 41.7068 53.5686 41.7068 52.0446 0.1778 -1
+De 15 0 21 556DF08E 0
+Po 0 35.46856 59.80684 41.7068 53.5686 0.1778 -1
+De 15 0 21 556DF08C 0
+Po 0 26.12644 59.80684 35.46856 59.80684 0.1778 -1
+De 15 0 21 556DF08A 0
+Po 0 23.2156 56.896 26.12644 59.80684 0.1778 -1
+De 15 0 21 556DF088 0
+Po 0 18.7198 56.896 23.2156 56.896 0.1778 -1
+De 15 0 21 556DF084 0
+Po 0 17.653 57.9628 18.7198 56.896 0.1778 -1
+De 15 0 21 556DF083 0
+Po 0 15.113 60.706 15.2273 60.706 0.1778 -1
+De 0 0 22 0 0
+Po 0 44.1198 50.3555 44.1198 52.0446 0.1778 -1
+De 15 0 22 556DF19D 0
+Po 0 44.12742 50.34788 44.1198 50.3555 0.1778 -1
+De 15 0 22 556DF19C 0
+Po 3 44.12742 50.34788 44.12742 50.34788 0.762 -1
+De 15 1 22 0 0
+Po 0 34.8107 59.6646 44.12742 50.34788 0.1778 -1
+De 0 0 22 556DF196 0
+Po 0 16.2687 59.6646 34.8107 59.6646 0.1778 -1
+De 0 0 22 556DF193 0
+Po 0 15.2273 60.706 16.2687 59.6646 0.1778 -1
+De 0 0 22 556DF192 0
+Po 0 15.113 60.706 15.1765 60.706 0.1778 -1
+De 15 0 22 0 30
+Po 0 22.733 63.246 39.81704 63.246 0.1778 -1
+De 15 0 23 0 0
+Po 0 49.7078 53.35524 49.7078 52.0446 0.1778 -1
+De 15 0 23 556DF37E 0
+Po 0 39.81704 63.246 49.7078 53.35524 0.1778 -1
+De 15 0 23 556DF376 0
+Po 0 22.733 25.146 37.8206 25.146 0.1778 -1
+De 15 0 24 0 0
+Po 0 47.3202 34.6456 47.3202 35.8394 0.1778 -1
+De 15 0 24 5564EBB2 0
+Po 0 37.8206 25.146 47.3202 34.6456 0.1778 -1
+De 15 0 24 5564EBB0 0
+Po 0 22.733 25.146 22.733 24.892 0.1778 -1
+De 0 0 24 0 30
+Po 0 17.653 32.766 18.2626 32.766 0.1778 -1
+De 15 0 25 0 0
+Po 0 39.2938 34.8996 39.2938 35.8394 0.1778 -1
+De 15 0 25 5564EB45 0
+Po 0 35.7378 31.3436 39.2938 34.8996 0.1778 -1
+De 15 0 25 5564EB43 0
+Po 0 19.685 31.3436 35.7378 31.3436 0.1778 -1
+De 15 0 25 5564EB41 0
+Po 0 18.2626 32.766 19.685 31.3436 0.1778 -1
+De 15 0 25 5564EB40 0
+Po 0 17.653 32.766 17.7165 32.766 0.1778 -1
+De 0 0 25 0 30
+Po 0 22.733 37.846 26.924 37.846 0.1778 -1
+De 15 0 26 0 0
+Po 0 28.9306 35.8394 31.3182 35.8394 0.1778 -1
+De 15 0 26 5564EAB9 0
+Po 0 26.924 37.846 28.9306 35.8394 0.1778 -1
+De 15 0 26 5564EAB7 0
+Po 0 17.653 45.466 17.653 45.3644 0.1778 -1
+De 15 0 27 0 0
+Po 0 27.4574 45.1358 29.4132 45.1358 0.1778 -1
+De 15 0 27 556DEE8D 0
+Po 0 26.5684 44.2468 27.4574 45.1358 0.1778 -1
+De 15 0 27 556DEE8B 0
+Po 0 18.7706 44.2468 26.5684 44.2468 0.1778 -1
+De 15 0 27 556DEE89 0
+Po 0 17.653 45.3644 18.7706 44.2468 0.1778 -1
+De 15 0 27 556DEE88 0
+Po 0 20.193 63.246 20.193 63.38824 0.1778 -1
+De 0 0 28 0 0
+Po 0 48.9204 50.43424 48.9204 52.0446 0.1778 -1
+De 15 0 28 556DF3EA 0
+Po 3 48.9204 50.43424 48.9204 50.43424 0.762 -1
+De 15 1 28 0 0
+Po 0 35.01644 64.3382 48.9204 50.43424 0.1778 -1
+De 0 0 28 556DF3E2 0
+Po 0 21.14296 64.3382 35.01644 64.3382 0.1778 -1
+De 0 0 28 556DF3E0 0
+Po 0 20.193 63.38824 21.14296 64.3382 0.1778 -1
+De 0 0 28 556DF3DF 0
+Po 0 15.113 27.686 15.113 27.6352 0.1778 -1
+De 0 0 29 0 0
+Po 0 46.5074 37.592 46.5074 35.8394 0.1778 -1
+De 15 0 29 5564EC17 0
+Po 3 46.5074 37.592 46.5074 37.592 0.762 -1
+De 15 1 29 0 0
+Po 0 35.1282 26.2128 46.5074 37.592 0.1778 -1
+De 0 0 29 5564EC11 0
+Po 0 16.5354 26.2128 35.1282 26.2128 0.1778 -1
+De 0 0 29 5564EC07 0
+Po 0 15.113 27.6352 16.5354 26.2128 0.1778 -1
+De 0 0 29 5564EC06 0
+Po 0 15.113 27.686 15.1765 27.686 0.1778 -1
+De 15 0 29 0 30
+Po 0 20.193 32.766 21.2598 31.6992 0.1778 -1
+De 0 0 30 0 0
+Po 0 38.5064 37.6682 38.5064 35.8394 0.1778 -1
+De 15 0 30 5564EB4E 0
+Po 0 38.5318 37.6936 38.5064 37.6682 0.1778 -1
+De 15 0 30 5564EB4D 0
+Po 3 38.5318 37.6936 38.5318 37.6936 0.762 -1
+De 15 1 30 0 0
+Po 0 32.5374 31.6992 38.5318 37.6936 0.1778 -1
+De 0 0 30 5564EB4A 0
+Po 0 21.2598 31.6992 32.5374 31.6992 0.1778 -1
+De 0 0 30 5564EB49 0
+Po 0 20.193 32.766 20.193 32.5755 0.1778 -1
+De 15 0 30 0 30
+Po 0 15.113 40.386 16.51 38.989 0.1778 -1
+De 0 0 31 0 0
+Po 0 27.8384 37.9476 29.4132 37.9476 0.1778 -1
+De 15 0 31 5564EAA5 0
+Po 0 27.813 37.973 27.8384 37.9476 0.1778 -1
+De 15 0 31 5564EAA4 0
+Po 3 27.813 37.973 27.813 37.973 0.762 -1
+De 15 1 31 0 0
+Po 0 26.797 38.989 27.813 37.973 0.1778 -1
+De 0 0 31 5564EAA1 0
+Po 0 16.51 38.989 26.797 38.989 0.1778 -1
+De 0 0 31 5564EAA0 0
+Po 0 15.113 40.386 15.113 40.005 0.1778 -1
+De 15 0 31 0 30
+Po 0 20.193 45.466 21.1582 45.466 0.1778 -1
+De 0 0 32 0 0
+Po 0 31.15818 45.9486 29.4132 45.9486 0.1778 -1
+De 15 0 32 556DEE9B 0
+Po 0 31.1658 45.95622 31.15818 45.9486 0.1778 -1
+De 15 0 32 556DEE9A 0
+Po 3 31.1658 45.95622 31.1658 45.95622 0.762 -1
+De 15 1 32 0 0
+Po 0 29.58338 44.3738 31.1658 45.95622 0.1778 -1
+De 0 0 32 556DEE95 0
+Po 0 22.2504 44.3738 29.58338 44.3738 0.1778 -1
+De 0 0 32 556DEE93 0
+Po 0 21.1582 45.466 22.2504 44.3738 0.1778 -1
+De 0 0 32 556DEE91 0
+Po 0 20.193 45.466 20.193 45.212 0.1778 -1
+De 15 0 32 0 30
+Po 0 22.733 58.166 23.33752 58.166 0.1778 -1
+De 15 0 33 0 0
+Po 0 43.307 53.28412 43.307 52.0446 0.1778 -1
+De 15 0 33 556DEFC7 0
+Po 0 36.09086 60.50026 43.307 53.28412 0.1778 -1
+De 15 0 33 556DEFC3 0
+Po 0 25.67178 60.50026 36.09086 60.50026 0.1778 -1
+De 15 0 33 556DEFC0 0
+Po 0 23.33752 58.166 25.67178 60.50026 0.1778 -1
+De 15 0 33 556DEFBF 0
+Po 0 17.653 27.686 17.7546 27.686 0.1778 -1
+De 15 0 34 0 0
+Po 0 45.72 34.7218 45.72 35.8394 0.1778 -1
+De 15 0 34 5564EBA9 0
+Po 0 37.465 26.4668 45.72 34.7218 0.1778 -1
+De 15 0 34 5564EBA7 0
+Po 0 18.9738 26.4668 37.465 26.4668 0.1778 -1
+De 15 0 34 5564EBA5 0
+Po 0 17.7546 27.686 18.9738 26.4668 0.1778 -1
+De 15 0 34 5564EBA4 0
+Po 0 51.6128 49.149 53.4162 49.149 0.1778 -1
+De 15 0 35 0 0
+Po 0 48.641 22.79396 48.641 22.86 0.1778 -1
+De 0 0 35 556DF792 0
+Po 0 56.30672 30.45968 48.641 22.79396 0.1778 -1
+De 0 0 35 556DF78B 0
+Po 0 56.30672 46.30928 56.30672 30.45968 0.1778 -1
+De 0 0 35 556DF789 0
+Po 0 53.4416 49.1744 56.30672 46.30928 0.1778 -1
+De 0 0 35 556DF788 0
+Po 3 53.4416 49.1744 53.4416 49.1744 0.762 -1
+De 15 1 35 0 0
+Po 0 53.4162 49.149 53.4416 49.1744 0.1778 -1
+De 15 0 35 556DF781 0
+Po 0 51.6763 59.4487 51.6763 51.92522 0.1778 -1
+De 15 0 36 0 0
+Po 0 49.70018 42.7482 51.6128 42.7482 0.1778 -1
+De 15 0 36 556DF733 0
+Po 0 47.98568 44.4627 49.70018 42.7482 0.1778 -1
+De 15 0 36 556DF731 0
+Po 0 47.98568 48.2346 47.98568 44.4627 0.1778 -1
+De 15 0 36 556DF72E 0
+Po 0 51.6763 51.92522 47.98568 48.2346 0.1778 -1
+De 15 0 36 556DF72B 0
+Po 0 51.6128 49.9364 54.73446 49.9364 0.1778 -1
+De 15 0 37 0 0
+Po 0 54.73446 49.9364 54.864 49.80686 0.1778 -1
+De 15 0 37 556DF742 0
+Po 0 51.6128 37.9476 53.34508 37.9476 0.1778 -1
+De 15 0 37 0 0
+Po 0 53.12918 61.9887 51.6763 61.9887 0.1778 -1
+De 15 0 37 556DF73E 0
+Po 0 54.864 60.25388 53.12918 61.9887 0.1778 -1
+De 15 0 37 556DF73C 0
+Po 0 54.864 39.46652 54.864 49.80686 0.1778 -1
+De 15 0 37 556DF738 0
+Po 0 54.864 49.80686 54.864 60.25388 0.1778 -1
+De 15 0 37 556DF746 0
+Po 0 53.34508 37.9476 54.864 39.46652 0.1778 -1
+De 15 0 37 556DF737 0
+Po 0 52.4129 38.6461 52.4129 34.7345 0.1778 -1
+De 0 0 38 0 0
+Po 0 53.3146 39.5478 53.3654 39.5986 0.1778 -1
+De 15 0 38 556DF76E 0
+Po 3 53.3654 39.5986 53.3654 39.5986 0.762 -1
+De 15 1 38 0 0
+Po 0 53.3654 39.5986 52.4129 38.6461 0.1778 -1
+De 0 0 38 556DF770 0
+Po 0 51.6128 39.5478 53.3146 39.5478 0.1778 -1
+De 15 0 38 0 0
+Po 0 49.8348 26.5938 48.641 25.4 0.1778 -1
+De 0 0 38 556DF9CE 0
+Po 0 49.8348 32.1564 49.8348 26.5938 0.1778 -1
+De 0 0 38 556DF9C4 0
+Po 0 52.4129 34.7345 49.8348 32.1564 0.1778 -1
+De 0 0 38 556DF9BF 0
+Po 0 17.653 63.246 18.9484 61.9506 0.1778 -1
+De 15 0 39 0 0
+Po 0 48.1076 53.37048 48.1076 52.0446 0.1778 -1
+De 15 0 39 556DF38E 0
+Po 0 38.74008 62.738 48.1076 53.37048 0.1778 -1
+De 15 0 39 556DF38A 0
+Po 0 25.146 62.738 38.74008 62.738 0.1778 -1
+De 15 0 39 556DF387 0
+Po 0 24.3586 61.9506 25.146 62.738 0.1778 -1
+De 15 0 39 556DF383 0
+Po 0 18.9484 61.9506 24.3586 61.9506 0.1778 -1
+De 15 0 39 556DF382 0
+Po 0 46.101 27.94 46.101 30.734 0.1778 -1
+De 0 0 40 0 0
+Po 0 50.0126 40.3352 51.6128 40.3352 0.1778 -1
+De 15 0 40 556DF76B 0
+Po 0 49.911 40.4368 50.0126 40.3352 0.1778 -1
+De 15 0 40 556DF76A 0
+Po 3 49.911 40.4368 49.911 40.4368 0.762 -1
+De 15 1 40 0 0
+Po 0 51.2572 39.0906 49.911 40.4368 0.1778 -1
+De 0 0 40 556DF766 0
+Po 0 51.2572 35.8902 51.2572 39.0906 0.1778 -1
+De 0 0 40 556DF761 0
+Po 0 46.101 30.734 51.2572 35.8902 0.1778 -1
+De 0 0 40 556DF75F 0
+Po 0 15.113 63.246 15.9004 63.246 0.1778 -1
+De 0 0 41 0 0
+Po 0 47.3202 50.3809 47.3202 52.0446 0.1778 -1
+De 15 0 41 556DF3DB 0
+Po 0 47.31766 50.37836 47.3202 50.3809 0.1778 -1
+De 15 0 41 556DF3DA 0
+Po 3 47.31766 50.37836 47.31766 50.37836 0.762 -1
+De 15 1 41 0 0
+Po 0 35.51682 62.1792 47.31766 50.37836 0.1778 -1
+De 0 0 41 556DF3D7 0
+Po 0 16.9672 62.1792 35.51682 62.1792 0.1778 -1
+De 0 0 41 556DF3D5 0
+Po 0 15.9004 63.246 16.9672 62.1792 0.1778 -1
+De 0 0 41 556DF3D3 0
+Po 0 46.101 20.32 46.101 20.36572 0.1778 -1
+De 15 0 42 0 0
+Po 0 50.0126 44.3484 51.6128 44.3484 0.1778 -1
+De 15 0 42 556DF8D0 0
+Po 0 49.99736 44.36364 50.0126 44.3484 0.1778 -1
+De 15 0 42 556DF8CF 0
+Po 3 49.99736 44.36364 49.99736 44.36364 0.762 -1
+De 15 1 42 0 0
+Po 0 51.83632 42.52468 49.99736 44.36364 0.1778 -1
+De 0 0 42 556DF8CB 0
+Po 0 51.83632 35.20948 51.83632 42.52468 0.1778 -1
+De 0 0 42 556DF8CA 0
+Po 0 51.67884 35.052 51.83632 35.20948 0.1778 -1
+De 0 0 42 556DF8C9 0
+Po 3 51.67884 35.052 51.67884 35.052 0.762 -1
+De 15 1 42 0 0
+Po 0 47.37608 30.74924 51.67884 35.052 0.1778 -1
+De 15 0 42 556DF8C3 0
+Po 0 47.37608 21.6408 47.37608 30.74924 0.1778 -1
+De 15 0 42 556DF8C0 0
+Po 0 46.101 20.36572 47.37608 21.6408 0.1778 -1
+De 15 0 42 556DF8BF 0
+Po 0 51.3461 28.44292 51.3461 20.4851 0.1778 -1
+De 15 0 43 0 0
+Po 0 52.8574 29.95422 51.3461 28.44292 0.1778 -1
+De 0 0 43 556DF9F1 0
+Po 3 51.3461 28.44292 51.3461 28.44292 0.762 -1
+De 15 1 43 0 0
+Po 0 51.6128 43.5356 53.4416 43.5356 0.1778 -1
+De 15 0 43 0 0
+Po 0 51.3461 20.4851 48.641 17.78 0.1778 -1
+De 15 0 43 556DF98C 0
+Po 0 54.1528 39.4208 52.8574 38.1254 0.1778 -1
+De 0 0 43 556DF983 0
+Po 0 54.1528 42.8244 54.1528 39.4208 0.1778 -1
+De 0 0 43 556DF981 0
+Po 0 53.6321 43.3451 54.1528 42.8244 0.1778 -1
+De 0 0 43 556DF980 0
+Po 3 53.6321 43.3451 53.6321 43.3451 0.762 -1
+De 15 1 43 0 0
+Po 0 53.4416 43.5356 53.6321 43.3451 0.1778 -1
+De 15 0 43 556DF977 0
+Po 0 52.8574 38.1254 52.8574 29.95422 0.1778 -1
+De 0 0 43 0 0
+Po 0 49.89068 28.9052 49.89068 28.91028 0.1778 -1
+De 15 0 44 0 0
+Po 0 47.49292 20.79244 47.49292 19.17192 0.1778 -1
+De 15 0 44 556DF8A1 0
+Po 0 48.09998 21.3995 47.49292 20.79244 0.1778 -1
+De 15 0 44 556DF89F 0
+Po 0 48.89754 21.3995 48.09998 21.3995 0.1778 -1
+De 15 0 44 556DF89D 0
+Po 0 49.89068 22.39264 48.89754 21.3995 0.1778 -1
+De 15 0 44 556DF89B 0
+Po 0 49.89068 28.9052 49.89068 22.39264 0.1778 -1
+De 15 0 44 556DF899 0
+Po 0 46.101 17.78 47.49292 19.17192 0.1778 -1
+De 15 0 44 556DF8A2 0
+Po 0 52.9336 45.1358 51.6128 45.1358 0.1778 -1
+De 15 0 44 556DF974 0
+Po 0 53.4289 44.6405 52.9336 45.1358 0.1778 -1
+De 15 0 44 556DF973 0
+Po 3 53.4289 44.6405 53.4289 44.6405 0.762 -1
+De 15 1 44 0 0
+Po 0 54.5592 43.5102 53.4289 44.6405 0.1778 -1
+De 0 0 44 556DF96F 0
+Po 0 54.5592 33.5788 54.5592 43.5102 0.1778 -1
+De 0 0 44 556DF96D 0
+Po 0 54.5592 33.5788 54.5592 33.5788 0.1778 -1
+De 0 0 44 556DF96C 0
+Po 3 54.5592 33.5788 54.5592 33.5788 0.762 -1
+De 15 1 44 0 0
+Po 0 49.89068 28.91028 54.5592 33.5788 0.1778 -1
+De 15 0 44 556DF963 0
+Po 0 55.25008 43.8658 55.25008 32.90316 0.1778 -1
+De 0 0 45 0 0
+Po 0 55.25008 43.8658 53.3908 45.72508 0.1778 -1
+De 0 0 45 556DF94E 0
+Po 3 53.3908 45.72508 53.3908 45.72508 0.762 -1
+De 15 1 45 0 0
+Po 0 53.3908 45.72508 53.16728 45.9486 0.1778 -1
+De 15 0 45 556DF953 0
+Po 0 51.6128 45.9486 53.16728 45.9486 0.1778 -1
+De 15 0 45 556DF954 0
+Po 0 50.4571 22.1361 48.641 20.32 0.1778 -1
+De 15 0 45 556DF84E 0
+Po 0 50.4571 28.4861 50.4571 22.1361 0.1778 -1
+De 15 0 45 556DF84B 0
+Po 0 51.39436 29.42336 50.4571 28.4861 0.1778 -1
+De 15 0 45 556DFA38 0
+Po 0 51.78044 29.42336 51.39436 29.42336 0.1778 -1
+De 15 0 45 556DFA35 0
+Po 0 55.25516 32.89808 51.78044 29.42336 0.1778 -1
+De 15 0 45 556DFA34 0
+Po 3 55.25516 32.89808 55.25516 32.89808 0.762 -1
+De 15 1 45 0 0
+Po 0 55.25008 32.90316 55.25516 32.89808 0.1778 -1
+De 0 0 45 556DFA2F 0
+Po 0 17.653 37.846 17.653 37.465 0.1778 -1
+De 15 0 46 0 0
+Po 0 32.9184 34.9504 32.9184 35.8394 0.1778 -1
+De 15 0 46 5564EAC5 0
+Po 0 32.385 34.417 32.9184 34.9504 0.1778 -1
+De 15 0 46 5564EAC4 0
+Po 0 29.718 34.417 32.385 34.417 0.1778 -1
+De 15 0 46 5564EAC2 0
+Po 0 27.432 36.703 29.718 34.417 0.1778 -1
+De 15 0 46 5564EAC0 0
+Po 0 18.415 36.703 27.432 36.703 0.1778 -1
+De 15 0 46 5564EABE 0
+Po 0 17.653 37.465 18.415 36.703 0.1778 -1
+De 15 0 46 5564EABD 0
+Po 0 17.653 37.7825 17.653 37.846 0.1778 -1
+De 0 0 46 0 30
+Po 0 22.733 48.006 25.9588 48.006 0.1778 -1
+De 15 0 47 0 0
+Po 0 27.8892 49.9364 29.4132 49.9364 0.1778 -1
+De 15 0 47 556DEEB6 0
+Po 0 25.9588 48.006 27.8892 49.9364 0.1778 -1
+De 15 0 47 556DEEB3 0
+Po 0 22.733 35.306 28.067 35.306 0.1778 -1
+De 15 0 48 0 0
+Po 0 34.5186 34.3916 34.5186 35.8394 0.1778 -1
+De 15 0 48 5564EAE9 0
+Po 0 34.036 33.909 34.5186 34.3916 0.1778 -1
+De 15 0 48 5564EAE8 0
+Po 0 29.464 33.909 34.036 33.909 0.1778 -1
+De 15 0 48 5564EAE6 0
+Po 0 28.067 35.306 29.464 33.909 0.1778 -1
+De 15 0 48 5564EAE4 0
+Po 0 22.733 35.306 22.7965 35.306 0.1778 -1
+De 0 0 48 0 30
+Po 0 15.113 37.846 15.113 37.465 0.1778 -1
+De 0 0 49 0 0
+Po 0 33.7058 38.1762 33.7058 35.8394 0.1778 -1
+De 15 0 49 5564EAE1 0
+Po 0 33.655 38.227 33.7058 38.1762 0.1778 -1
+De 15 0 49 5564EAE0 0
+Po 3 33.655 38.227 33.655 38.227 0.762 -1
+De 15 1 49 0 0
+Po 0 30.9626 38.227 33.655 38.227 0.1778 -1
+De 0 0 49 5564EADD 0
+Po 0 29.082998 36.347398 30.9626 38.227 0.1778 -1
+De 0 0 49 5564EADB 0
+Po 0 16.230602 36.347398 29.082998 36.347398 0.1778 -1
+De 0 0 49 5564EAD9 0
+Po 0 15.113 37.465 16.230602 36.347398 0.1778 -1
+De 0 0 49 5564EAD8 0
+Po 0 15.113 37.846 15.1765 37.846 0.1778 -1
+De 15 0 49 0 30
+Po 0 17.653 42.926 17.653 42.7228 0.1778 -1
+De 15 0 50 0 0
+Po 0 23.9268 41.9354 29.4132 41.9354 0.1778 -1
+De 15 0 50 556DE8ED 0
+Po 0 23.6474 41.656 23.9268 41.9354 0.1778 -1
+De 15 0 50 556DE8EC 0
+Po 0 18.7198 41.656 23.6474 41.656 0.1778 -1
+De 15 0 50 556DE8EA 0
+Po 0 17.653 42.7228 18.7198 41.656 0.1778 -1
+De 15 0 50 556DE8E9 0
+Po 0 20.193 27.686 20.2438 27.686 0.1778 -1
+De 0 0 51 0 0
+Po 0 44.9072 37.6174 44.9072 35.8394 0.1778 -1
+De 15 0 51 5564EC03 0
+Po 0 44.8818 37.6428 44.9072 37.6174 0.1778 -1
+De 15 0 51 5564EC02 0
+Po 3 44.8818 37.6428 44.8818 37.6428 0.762 -1
+De 15 1 51 0 0
+Po 0 33.8582 26.6192 44.8818 37.6428 0.1778 -1
+De 0 0 51 5564EBFB 0
+Po 0 21.3106 26.6192 33.8582 26.6192 0.1778 -1
+De 0 0 51 5564EBF5 0
+Po 0 20.2438 27.686 21.3106 26.6192 0.1778 -1
+De 0 0 51 5564EBF3 0
+Po 0 20.193 27.686 20.2565 27.686 0.1778 -1
+De 15 0 51 0 30
+Po 0 22.733 42.926 22.733 42.926 0.1778 -1
+De 15 0 52 0 0
+Po 0 23.3426 43.5356 29.4132 43.5356 0.1778 -1
+De 15 0 52 556DE8E5 0
+Po 0 22.733 42.926 23.3426 43.5356 0.1778 -1
+De 15 0 52 556DE8E0 0
+Po 0 20.193 42.926 20.2438 42.926 0.1778 -1
+De 0 0 53 0 0
+Po 0 31.1912 42.7482 29.4132 42.7482 0.1778 -1
+De 15 0 53 556DE92C 0
+Po 0 31.2166 42.7736 31.1912 42.7482 0.1778 -1
+De 15 0 53 556DE92B 0
+Po 3 31.2166 42.7736 31.2166 42.7736 0.762 -1
+De 15 1 53 0 0
+Po 0 30.30982 41.86682 31.2166 42.7736 0.1778 -1
+De 0 0 53 556DE927 0
+Po 0 21.30298 41.86682 30.30982 41.86682 0.1778 -1
+De 0 0 53 556DE923 0
+Po 0 20.2438 42.926 21.30298 41.86682 0.1778 -1
+De 0 0 53 556DE8FA 0
+Po 0 20.193 42.926 20.193 42.545 0.1778 -1
+De 15 0 53 0 30
+Po 0 20.193 42.926 20.193 42.7355 0.1778 -1
+De 15 0 53 0 30
+Po 0 17.653 30.226 17.653 30.0228 0.1778 -1
+De 15 0 54 0 0
+Po 0 42.5196 34.925 42.5196 35.8394 0.1778 -1
+De 15 0 54 5564EB69 0
+Po 0 36.5506 28.956 42.5196 34.925 0.1778 -1
+De 15 0 54 5564EB67 0
+Po 0 18.7198 28.956 36.5506 28.956 0.1778 -1
+De 15 0 54 5564EB65 0
+Po 0 17.653 30.0228 18.7198 28.956 0.1778 -1
+De 15 0 54 5564EB64 0
+Po 0 20.193 55.626 21.160742 55.626 0.1778 -1
+De 0 0 55 0 0
+Po 0 39.2938 50.43678 39.2938 52.0446 0.1778 -1
+De 15 0 55 556DF1E7 0
+Po 3 39.2938 50.43678 39.2938 50.43678 0.762 -1
+De 15 1 55 0 0
+Po 0 32.989522 56.741058 39.2938 50.43678 0.1778 -1
+De 0 0 55 556DF1DB 0
+Po 0 22.2758 56.741058 32.989522 56.741058 0.1778 -1
+De 0 0 55 556DF1D9 0
+Po 0 21.160742 55.626 22.2758 56.741058 0.1778 -1
+De 0 0 55 556DF1D3 0
+Po 0 20.193 55.626 20.193 55.54218 0.1778 -1
+De 15 0 55 0 30
+Po 0 17.653 50.546 18.0594 50.546 0.1778 -1
+De 15 0 56 0 0
+Po 0 32.1056 53.3654 32.1056 52.0446 0.1778 -1
+De 15 0 56 556DF0D6 0
+Po 0 30.3276 55.1434 32.1056 53.3654 0.1778 -1
+De 15 0 56 556DF0D5 0
+Po 0 28.8798 55.1434 30.3276 55.1434 0.1778 -1
+De 15 0 56 556DF0D3 0
+Po 0 23.114 49.3776 28.8798 55.1434 0.1778 -1
+De 15 0 56 556DF0D1 0
+Po 0 19.2278 49.3776 23.114 49.3776 0.1778 -1
+De 15 0 56 556DF0CF 0
+Po 0 18.0594 50.546 19.2278 49.3776 0.1778 -1
+De 15 0 56 556DF0CE 0
+Po 0 22.733 50.546 22.7838 50.546 0.1778 -1
+De 15 0 57 0 0
+Po 0 33.7058 53.9496 33.7058 52.0446 0.1778 -1
+De 15 0 57 556DF0CA 0
+Po 0 31.623 56.0324 33.7058 53.9496 0.1778 -1
+De 15 0 57 556DF0C4 0
+Po 0 28.2702 56.0324 31.623 56.0324 0.1778 -1
+De 15 0 57 556DF0C2 0
+Po 0 22.7838 50.546 28.2702 56.0324 0.1778 -1
+De 15 0 57 556DF0C0 0
+Po 0 20.193 50.546 20.193 50.4444 0.1778 -1
+De 0 0 58 0 0
+Po 0 32.9184 50.3047 32.9184 52.0446 0.1778 -1
+De 15 0 58 556DF134 0
+Po 0 32.893 50.2793 32.9184 50.3047 0.1778 -1
+De 15 0 58 556DF133 0
+Po 3 32.893 50.2793 32.893 50.2793 0.762 -1
+De 15 1 58 0 0
+Po 0 26.6827 50.2793 32.893 50.2793 0.1778 -1
+De 0 0 58 556DF130 0
+Po 0 25.90546 49.50206 26.6827 50.2793 0.1778 -1
+De 0 0 58 556DF12E 0
+Po 0 21.13534 49.50206 25.90546 49.50206 0.1778 -1
+De 0 0 58 556DF12C 0
+Po 0 20.193 50.4444 21.13534 49.50206 0.1778 -1
+De 0 0 58 556DF12B 0
+Po 0 20.193 50.546 20.23618 50.546 0.1778 -1
+De 15 0 58 0 30
+Po 0 20.193 53.086 20.193 53.17236 0.1778 -1
+De 0 0 59 0 0
+Po 0 36.1188 50.43932 36.1188 52.0446 0.1778 -1
+De 15 0 59 556DF21C 0
+Po 3 36.1188 50.43932 36.1188 50.43932 0.762 -1
+De 15 1 59 0 0
+Po 0 32.344362 54.213758 36.1188 50.43932 0.1778 -1
+De 0 0 59 556DF214 0
+Po 0 21.234398 54.213758 32.344362 54.213758 0.1778 -1
+De 0 0 59 556DF210 0
+Po 0 20.193 53.17236 21.234398 54.213758 0.1778 -1
+De 0 0 59 556DF20D 0
+Po 0 20.193 53.086 20.193 53.00218 0.1778 -1
+De 15 0 59 0 30
+Po 0 22.733 53.086 22.733 53.086 0.1778 -1
+De 15 0 60 0 0
+Po 0 36.9062 53.6702 36.9062 52.0446 0.1778 -1
+De 15 0 60 556DF0AF 0
+Po 0 33.2232 57.3532 36.9062 53.6702 0.1778 -1
+De 15 0 60 556DF0AD 0
+Po 0 27.0002 57.3532 33.2232 57.3532 0.1778 -1
+De 15 0 60 556DF0AB 0
+Po 0 22.733 53.086 27.0002 57.3532 0.1778 -1
+De 15 0 60 556DF0A9 0
+Po 0 17.653 53.086 17.8054 53.086 0.1778 -1
+De 15 0 61 0 0
+Po 0 35.306 53.9242 35.306 52.0446 0.1778 -1
+De 15 0 61 556DF0BC 0
+Po 0 32.4866 56.7436 35.306 53.9242 0.1778 -1
+De 15 0 61 556DF0BA 0
+Po 0 27.94 56.7436 32.4866 56.7436 0.1778 -1
+De 15 0 61 556DF0B8 0
+Po 0 23.0378 51.8414 27.94 56.7436 0.1778 -1
+De 15 0 61 556DF0B6 0
+Po 0 19.05 51.8414 23.0378 51.8414 0.1778 -1
+De 15 0 61 556DF0B4 0
+Po 0 17.8054 53.086 19.05 51.8414 0.1778 -1
+De 15 0 61 556DF0B3 0
+Po 0 15.113 35.306 15.2654 35.306 0.1778 -1
+De 0 0 62 0 0
+Po 0 36.9062 37.6936 36.9062 35.8394 0.1778 -1
+De 15 0 62 5564EB1E 0
+Po 3 36.9062 37.6936 36.9062 37.6936 0.762 -1
+De 15 1 62 0 0
+Po 0 33.0454 33.8328 36.9062 37.6936 0.1778 -1
+De 0 0 62 5564EB1B 0
+Po 0 16.7386 33.8328 33.0454 33.8328 0.1778 -1
+De 0 0 62 5564EB19 0
+Po 0 15.2654 35.306 16.7386 33.8328 0.1778 -1
+De 0 0 62 5564EB18 0
+Po 0 15.113 35.306 15.113 34.925 0.1778 -1
+De 15 0 62 0 30
+Po 0 15.113 53.086 15.60068 53.086 0.1778 -1
+De 0 0 63 0 0
+Po 0 34.5186 50.45202 34.5186 52.0446 0.1778 -1
+De 15 0 63 556DF22E 0
+Po 0 34.5313 50.43932 34.5186 50.45202 0.1778 -1
+De 15 0 63 556DF22D 0
+Po 3 34.5313 50.43932 34.5313 50.43932 0.762 -1
+De 15 1 63 0 0
+Po 0 32.94888 52.02174 34.5313 50.43932 0.1778 -1
+De 0 0 63 556DF226 0
+Po 0 16.66494 52.02174 32.94888 52.02174 0.1778 -1
+De 0 0 63 556DF223 0
+Po 0 15.60068 53.086 16.66494 52.02174 0.1778 -1
+De 0 0 63 556DF220 0
+Po 0 15.113 53.086 15.1765 53.086 0.1778 -1
+De 15 0 63 0 30
+Po 0 15.113 58.166 15.113 57.8358 0.1778 -1
+De 0 0 64 0 0
+Po 0 40.9194 50.41138 40.9194 52.0446 0.1778 -1
+De 15 0 64 556DF1CC 0
+Po 0 40.92194 50.40884 40.9194 50.41138 0.1778 -1
+De 15 0 64 556DF1CB 0
+Po 3 40.92194 50.40884 40.92194 50.40884 0.762 -1
+De 15 1 64 0 0
+Po 0 34.23412 57.09666 40.92194 50.40884 0.1778 -1
+De 0 0 64 556DF1C5 0
+Po 0 15.85214 57.09666 34.23412 57.09666 0.1778 -1
+De 0 0 64 556DF1C1 0
+Po 0 15.113 57.8358 15.85214 57.09666 0.1778 -1
+De 0 0 64 556DF1BF 0
+Po 0 15.113 58.166 15.4305 58.166 0.1778 -1
+De 15 0 64 0 30
+Po 0 22.733 30.226 36.195 30.226 0.1778 -1
+De 15 0 65 0 0
+Po 0 40.9194 34.9504 40.9194 35.8394 0.1778 -1
+De 15 0 65 5564EB60 0
+Po 0 36.195 30.226 40.9194 34.9504 0.1778 -1
+De 15 0 65 5564EB5E 0
+Po 0 22.733 55.626 23.0378 55.626 0.1778 -1
+De 15 0 66 0 0
+Po 0 40.1066 53.848 40.1066 52.0446 0.1778 -1
+De 15 0 66 556DF098 0
+Po 0 35.07232 58.88228 40.1066 53.848 0.1778 -1
+De 15 0 66 556DF096 0
+Po 0 26.29408 58.88228 35.07232 58.88228 0.1778 -1
+De 15 0 66 556DF094 0
+Po 0 23.0378 55.626 26.29408 58.88228 0.1778 -1
+De 15 0 66 556DF092 0
+Po 0 17.653 55.626 17.9832 55.626 0.1778 -1
+De 15 0 67 0 0
+Po 0 38.5064 53.8988 38.5064 52.0446 0.1778 -1
+De 15 0 67 556DF0A5 0
+Po 0 34.2392 58.166 38.5064 53.8988 0.1778 -1
+De 15 0 67 556DF0A3 0
+Po 0 26.797 58.166 34.2392 58.166 0.1778 -1
+De 15 0 67 556DF0A1 0
+Po 0 23.0378 54.4068 26.797 58.166 0.1778 -1
+De 15 0 67 556DF09F 0
+Po 0 19.2024 54.4068 23.0378 54.4068 0.1778 -1
+De 15 0 67 556DF09D 0
+Po 0 17.9832 55.626 19.2024 54.4068 0.1778 -1
+De 15 0 67 556DF09C 0
+Po 0 15.113 55.626 15.621 55.626 0.1778 -1
+De 0 0 68 0 0
+Po 0 37.719 50.50282 37.719 52.0446 0.1778 -1
+De 15 0 68 556DF203 0
+Po 0 37.7444 50.47742 37.719 50.50282 0.1778 -1
+De 15 0 68 556DF202 0
+Po 3 37.7444 50.47742 37.7444 50.47742 0.762 -1
+De 15 1 68 0 0
+Po 0 33.65246 54.56936 37.7444 50.47742 0.1778 -1
+De 0 0 68 556DF1F5 0
+Po 0 16.67764 54.56936 33.65246 54.56936 0.1778 -1
+De 0 0 68 556DF1ED 0
+Po 0 15.621 55.626 16.67764 54.56936 0.1778 -1
+De 0 0 68 556DF1EB 0
+Po 0 15.113 55.626 15.24 55.626 0.1778 -1
+De 15 0 68 0 30
+Po 0 22.733 60.706 24.1554 60.706 0.1778 -1
+De 15 0 69 0 0
+Po 0 46.5074 53.8734 46.5074 52.0446 0.1778 -1
+De 15 0 69 556DF3A6 0
+Po 0 38.26256 62.11824 46.5074 53.8734 0.1778 -1
+De 15 0 69 556DF39F 0
+Po 0 25.56764 62.11824 38.26256 62.11824 0.1778 -1
+De 15 0 69 556DF39C 0
+Po 0 24.1554 60.706 25.56764 62.11824 0.1778 -1
+De 15 0 69 556DF39A 0
+Po 0 20.193 30.226 20.4978 30.226 0.1778 -1
+De 0 0 70 0 0
+Po 0 41.7068 37.465 41.7068 35.8394 0.1778 -1
+De 15 0 70 5564EBDC 0
+Po 0 41.6814 37.4904 41.7068 37.465 0.1778 -1
+De 15 0 70 5564EBDB 0
+Po 3 41.6814 37.4904 41.6814 37.4904 0.762 -1
+De 15 1 70 0 0
+Po 0 33.3502 29.1592 41.6814 37.4904 0.1778 -1
+De 0 0 70 5564EBD3 0
+Po 0 21.5646 29.1592 33.3502 29.1592 0.1778 -1
+De 0 0 70 5564EBCE 0
+Po 0 20.4978 30.226 21.5646 29.1592 0.1778 -1
+De 0 0 70 5564EBCC 0
+Po 0 20.193 30.226 20.193 30.099 0.1778 -1
+De 15 0 70 0 30
+Po 0 20.193 30.226 20.193 30.20568 0.1778 -1
+De 15 0 70 0 30
+Po 0 15.113 25.146 15.113 25.0952 0.1778 -1
+De 0 0 71 0 0
+Po 0 49.7078 37.592 49.7078 35.8394 0.1778 -1
+De 15 0 71 5564EC46 0
+Po 0 49.657 37.6428 49.7078 37.592 0.1778 -1
+De 15 0 71 5564EC45 0
+Po 3 49.657 37.6428 49.657 37.6428 0.762 -1
+De 15 1 71 0 0
+Po 0 35.585398 23.571198 49.657 37.6428 0.1778 -1
+De 0 0 71 5564EC3F 0
+Po 0 16.637002 23.571198 35.585398 23.571198 0.1778 -1
+De 0 0 71 5564EC3C 0
+Po 0 15.113 25.0952 16.637002 23.571198 0.1778 -1
+De 0 0 71 5564EC3B 0
+Po 0 15.113 25.146 15.1765 25.146 0.1778 -1
+De 15 0 71 0 30
+Po 0 17.653 25.146 17.9578 25.146 0.1778 -1
+De 15 0 72 0 0
+Po 0 48.9204 34.7726 48.9204 35.8394 0.1778 -1
+De 15 0 72 5564EBBF 0
+Po 0 38.0746 23.9268 48.9204 34.7726 0.1778 -1
+De 15 0 72 5564EBBC 0
+Po 0 19.177 23.9268 38.0746 23.9268 0.1778 -1
+De 15 0 72 5564EBB7 0
+Po 0 17.9578 25.146 19.177 23.9268 0.1778 -1
+De 15 0 72 5564EBB6 0
+Po 0 20.193 40.386 20.193 40.259 0.1778 -1
+De 0 0 73 0 0
+Po 0 27.7368 39.5478 29.4132 39.5478 0.1778 -1
+De 15 0 73 5564EAB4 0
+Po 0 27.686 39.497 27.7368 39.5478 0.1778 -1
+De 15 0 73 5564EAB3 0
+Po 3 27.686 39.497 27.686 39.497 0.762 -1
+De 15 1 73 0 0
+Po 0 27.533602 39.344602 27.686 39.497 0.1778 -1
+De 0 0 73 5564EAB1 0
+Po 0 21.107398 39.344602 27.533602 39.344602 0.1778 -1
+De 0 0 73 5564EAAF 0
+Po 0 20.193 40.259 21.107398 39.344602 0.1778 -1
+De 0 0 73 5564EAAE 0
+Po 0 20.193 40.386 20.23618 40.386 0.1778 -1
+De 15 0 73 0 30
+Po 0 15.113 50.546 15.1384 50.546 0.1778 -1
+De 0 0 74 0 0
+Po 0 31.08452 52.0446 31.3182 52.0446 0.1778 -1
+De 15 0 74 556DF23E 0
+Po 0 30.25902 51.2191 31.08452 52.0446 0.1778 -1
+De 15 0 74 556DF23D 0
+Po 3 30.25902 51.2191 30.25902 51.2191 0.762 -1
+De 15 1 74 0 0
+Po 0 29.83484 51.64328 30.25902 51.2191 0.1778 -1
+De 0 0 74 556DF238 0
+Po 0 16.23568 51.64328 29.83484 51.64328 0.1778 -1
+De 0 0 74 556DF235 0
+Po 0 15.1384 50.546 16.23568 51.64328 0.1778 -1
+De 0 0 74 556DF232 0
+Po 0 15.113 50.546 15.113 50.419 0.1778 -1
+De 15 0 74 0 30
+Po 0 15.113 48.006 15.28318 48.006 0.1778 -1
+De 0 0 75 0 0
+Po 0 31.27502 47.5488 29.4132 47.5488 0.1778 -1
+De 15 0 75 556DEF01 0
+Po 0 31.27756 47.55134 31.27502 47.5488 0.1778 -1
+De 15 0 75 556DEF00 0
+Po 3 31.27756 47.55134 31.27756 47.55134 0.762 -1
+De 15 1 75 0 0
+Po 0 30.32252 46.5963 31.27756 47.55134 0.1778 -1
+De 0 0 75 556DEEF3 0
+Po 0 16.69288 46.5963 30.32252 46.5963 0.1778 -1
+De 0 0 75 556DEEF0 0
+Po 0 15.28318 48.006 16.69288 46.5963 0.1778 -1
+De 0 0 75 556DEEEE 0
+$EndTRACK
+$ZONE
+$EndZONE
+$EndBOARD
