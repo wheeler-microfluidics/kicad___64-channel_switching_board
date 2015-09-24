@@ -30,13 +30,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:wheelerlab
+LIBS:64-channel switching board-cache
 EELAYER 27 0
 EELAYER END
 $Descr User 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "minibox v2"
-Date "2 jun 2015"
+Date "23 sep 2015"
 Rev "1"
 Comp "Ryan Fobel"
 Comment1 ""
@@ -843,4 +844,22 @@ Wire Wire Line
 	5400 2050 5400 3150
 Wire Wire Line
 	5400 3150 5450 3150
+Text GLabel 5450 2350 0    60   Input ~ 0
++5V
+Text GLabel 5450 2450 0    60   Input ~ 0
+GND
+Text GLabel 5450 2550 0    60   Input ~ 0
+DIR
+Text GLabel 5450 2650 0    60   Input ~ 0
+POL
+Text GLabel 5450 2750 0    60   Input ~ 0
+BL
+Text GLabel 5450 2850 0    60   Input ~ 0
+DIOA
+Text GLabel 5450 2950 0    60   Input ~ 0
+DIOB
+Text GLabel 5450 3050 0    60   Input ~ 0
+LE
+Text GLabel 5450 3150 0    60   Input ~ 0
+CLK
 $EndSCHEMATC
