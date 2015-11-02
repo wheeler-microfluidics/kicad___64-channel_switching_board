@@ -1,5 +1,5 @@
-update=21/09/2015 12:50:17 PM
-last_client=eeschema
+update=02/11/2015 1:36:49 PM
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -42,11 +42,6 @@ version=1
 [eeschema]
 version=1
 LibDir=library
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
 LibName1=power
 LibName2=device
